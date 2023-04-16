@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/04/13 18:42:00.000.971,=C:\Users\marcu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/13 18:42:21.000.035,C:\Users\marcu\Documents\projetos\CadastroClientes\CadastroClientes.pas=C:\Users\marcu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/13 18:42:21.000.035,C:\Users\marcu\Documents\projetos\CadastroClientes\CadastroClientes.dfm=C:\Users\marcu\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/04/13 18:44:46.000.236,C:\Users\marcu\Documents\projetos\CadastroClientes\Project1.dproj=C:\Users\marcu\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/04/13 18:58:19.000.997,=C:\Users\marcu\Documents\projetos\CadastroClientes\Unit1.pas</Transaction>
+    <Transaction>2023/04/13 18:58:34.000.962,C:\Users\marcu\Documents\projetos\CadastroClientes\UBiblioteca.pas=C:\Users\marcu\Documents\projetos\CadastroClientes\Unit1.pas</Transaction>
+    <Transaction>2023/04/15 12:03:30.000.225,=C:\Users\marcu\Documents\projetos\CadastroClientes\Unit1.pas</Transaction>
+    <Transaction>2023/04/15 12:04:08.000.168,C:\Users\marcu\Documents\projetos\CadastroClientes\Biblioteca\uSMTP.pas=C:\Users\marcu\Documents\projetos\CadastroClientes\Unit1.pas</Transaction>
+    <Transaction>2023/04/16 12:22:27.000.738,C:\Users\marcu\Documents\projetos\CadastroClientes\Project1.dproj=C:\Users\marcu\Documents\projetos\CadastroClientes\CadastroClientesInfo.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
